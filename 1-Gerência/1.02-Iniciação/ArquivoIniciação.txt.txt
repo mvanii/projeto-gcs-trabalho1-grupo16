@@ -2,3 +2,8 @@ Nome artefato: ArquivoIniciação.txt
 Nome do(a) autor(a): Matheus Vani de Assis
 Data de criação: 14/04/2015
 Hora de criação: 21:30:50
+
+Nome artefato: ArquivoIniciação.txt
+Nome do(a) autor(a): Milton Araujo
+Data de criação: 14/04/2015
+Hora de criação: 14:05:17
