@@ -4,6 +4,8 @@ Data de criação: 14/04/2015
 Hora de criação: 21:30:50
 
 Nome artefato: ArquivoIniciação.txt
-Nome do(a) autor(a): Milton Araujo
+Nome do(a) autor(a) da alteração: Milton Araujo
 Data de criação: 14/04/2015
 Hora de criação: 14:05:17
+
+Adição de linha teste!
