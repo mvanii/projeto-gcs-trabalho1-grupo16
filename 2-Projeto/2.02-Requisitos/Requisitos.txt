@@ -1,4 +1,7 @@
 Nome artefato: Requisitos3
-Nome do(a) autor(a): Matheus Vani de Assis
-Data de cria��o: 14/04/2015
-Hora de cria��o: 14:26:50
+Nome do master1: Matheus Vani de Assis
+Nome do master2: Milton Araujo Florencio Calacio
+Data de criação: 14/04/2015
+Hora de criação: 14:26:50
+Data de alteração no browser:14/04/2015
+Hora da alteração no browser:15:01:52
