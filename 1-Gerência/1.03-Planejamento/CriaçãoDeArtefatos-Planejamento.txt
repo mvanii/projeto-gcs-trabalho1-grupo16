@@ -2,3 +2,9 @@ Nome artefato: CriaçãoDeArtefatos-Planejamento.txt
 Nome do(a) autor(a) da alteração: Milton Araujo Florencio Calacio
 Data da alteração: 13/04/2015
 Hora da alteração: 21:33:04
+
+
+Nome artefato: CriaçãoDeArtefatos-Planejamento.txt
+Nome do(a) autor(a) da alteração: Matheus Vani de Assis
+Data da alteração: 13/04/2015
+Hora da alteração: 22:52:23
