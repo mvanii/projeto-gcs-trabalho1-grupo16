@@ -1,6 +1,15 @@
 Nome artefato: Requisitos3
+<<<<<<< HEAD
 Nome do(a) autor(a): Matheus Vani de Assis
 Data de criação: 14/04/2015
 Hora de criação: 14:26:50
 
 Inclusão de linhas no fim do documento, tarefa 15.
+=======
+Nome do master1: Matheus Vani de Assis
+Nome do master2: Milton Araujo Florencio Calacio
+Data de criaÃ§Ã£o: 14/04/2015
+Hora de criaÃ§Ã£o: 14:26:50
+Data de alteraÃ§Ã£o no browser:14/04/2015
+Hora da alteraÃ§Ã£o no browser:15:01:52
+>>>>>>> ramo2
